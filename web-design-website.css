@@ -28,6 +28,7 @@ ul {
   color: white;
 }
 
+/* message */
 .dark {
   padding: 15px;
   background: #35424a;
@@ -121,7 +122,7 @@ a:focus {
   margin-top: 15px;
 }
 
-#newsletter input[type="email"] {
+#newsletter input[type='email'] {
   padding: 4px;
   height: 25px;
   width: 250px;
@@ -210,7 +211,7 @@ footer {
     width: 100%;
   }
 
-  #newsletter form input[type="email"],
+  #newsletter form input[type='email'],
   .quote input,
   .quote textarea {
     width: 100%;
